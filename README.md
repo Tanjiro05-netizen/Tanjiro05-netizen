@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hello%2C+welcome+to+my+page" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFD700&center=true&vCenter=true&width=535&lines=Hello%2C+welcome+to+my+page" alt="Typing SVG" />
 
 </div>
 
@@ -42,7 +42,7 @@ class Engineer:
 - 🔧 Full-Stack Development
 
 <div align="center">
-<img src="YOUR_JUJUTSU_KAISEN_GIF_URL_HERE" width="400" alt="Jujutsu Kaisen"/>
+<img src="https://64.media.tumblr.com/a5f5f3bba7ff79e98a54eaeb754ef516/3a79b9d52ff67eae-5f/s1280x1920/2b4a69598fcd171e1f22ba9976113920113e31e6.gifv" width="400" alt="Jujutsu Kaisen"/>
 </div>
 
 ## 💫 Skills | 技能 | 기술
@@ -61,13 +61,37 @@ class Engineer:
 
 ## 🌟 Interests | 兴趣爱好 | 관심사
 
-- 🎮 Gaming Explorer
-- 📺 Anime & K-Drama Enthusiast
+- 🎮 Gaming Enthusiast
+- 📺 Anime & K-Drama Obsessed
 - 🛠️ DIY Project Builder
-- 💻 Tech Innovator
+- 💻 Tech Innovator and Revolutionary
+
+## 📺 Currently Watching | 在看 | 시청 중
+
+### Anime 🍜
+- 🌟 Jujutsu Kaisen Season 2
+- 🌟 Dan Da Dan
+- 🌟 Demon Slayer Season 4
+
+### K-Dramas 🎭
+- 🌟 Bloodhounds
+- 🌟 My Name
+- 🌟 Because this is my first life
+
+## 🎵 Vibing To | 在听 | 듣는 중
 
 <div align="center">
-<img src="YOUR_DEMON_SLAYER_GIF_URL_HERE" width="400" alt="Demon Slayer"/>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31s7xbpqzwc4up37ci5uw3w4n3bi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/track/39naxI2F1PoGszYuQ0bUFp?si=ec1cce06deee4079)
+
+</div>
+
+<div align="center">
+
+[![Simple Custom Spotify Widget](https://img.shields.io/badge/Favorite%20Song-39naxI2F1PoGszYuQ0bUFp-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/39naxI2F1PoGszYuQ0bUFp?si=ec1cce06deee4079)
+
+<div align="center">
+<img src="https://www.icegif.com/wp-content/uploads/tanjiro-kamado-icegif-2.gif" width="400" alt="Demon Slayer"/>
 </div>
 
 ## 📊 GitHub Stats | GitHub 统计 | GitHub 통계
