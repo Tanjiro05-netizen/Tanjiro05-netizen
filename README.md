@@ -8,11 +8,14 @@
 「 AI와 마르크스주의 사상으로 미래를 설계하다 」
 ```
 
-<img src="YOUR_YOUR_NAME_GIF_URL_HERE" width="400" alt="Your Name Anime"/>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=YOURUSERNAME&color=blueviolet)
 
 </div>
+
+<div align="center">
+<table>
+<tr>
+<td width="60%">
 
 ## 🌌 About Me | 关于我 | 나에 대해
 
@@ -30,6 +33,14 @@ class Engineer:
                          "Building Things", "Engineering"]
 ```
 
+</td>
+<td width="40%">
+<img src="https://media1.tenor.com/m/ujZcKPQN8A8AAAAd/your-name.gif" width="100%" alt="Your Name Anime"/>
+</td>
+</tr>
+</table>
+</div>
+
 ## 🎮 Current Focus | 当前重点 | 현재 초점
 
 - 🌐 Developing Marxist Educational Platform
@@ -38,7 +49,7 @@ class Engineer:
 - 🔧 Full-Stack Development
 
 <div align="center">
-<img src="YOUR_JUJUTSU_KAISEN_GIF_URL_HERE" width="400" alt="Jujutsu Kaisen"/>
+<img src="https://64.media.tumblr.com/a5f5f3bba7ff79e98a54eaeb754ef516/3a79b9d52ff67eae-5f/s1280x1920/2b4a69598fcd171e1f22ba9976113920113e31e6.gifv" width="400" alt="Jujutsu Kaisen"/>
 </div>
 
 ## 💫 Skills | 技能 | 기술
