@@ -12,7 +12,7 @@
 「 Engineering the future 」
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOURUSERNAME&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=Tanjiro05-netizen&color=blueviolet)
 
 </div>
 
@@ -89,7 +89,7 @@ class Engineer:
 
 </div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanjiro05-netizen&show_icons=true&theme=tokyonight)
 
 </div>
 
