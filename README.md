@@ -58,13 +58,13 @@
 
 ### Anime 🍜
 - 🌟 Jujutsu Kaisen Season 2
-- 🌟 [Your current anime]
-- 🌟 [Your current anime]
+- 🌟 Dandadan
+- 🌟 Demon Slayer Season 4
 
 ### K-Dramas 🎭
-- 🌟 [Your current kdrama]
-- 🌟 [Your current kdrama]
-- 🌟 [Your current kdrama]
+- 🌟 Bloodhounds
+- 🌟 Because this is my first life
+- 🌟 My Name
 
 ♫ Vibing To | 在听 | 듣는 중
 ___
