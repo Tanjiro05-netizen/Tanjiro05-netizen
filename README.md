@@ -80,13 +80,17 @@ class Engineer:
 
 <div align="center">
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31s7xbpqzwc4up37ci5uw3w4n3bi&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
+(https://spotify-github-profile.vercel.app/api/view?uid=31s7xbpqzwc4up37ci5uw3w4n3bi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/track/39naxI2F1PoGszYuQ0bUFp?si=ec1cce06deee4079)
 
-FAVORITE SONG: 39NAXI2F1POGSZYU0DBUFP
+</div>
 
 <div align="center">
 
-<img src="YOUR_DEMON_SLAYER_GIF_URL_HERE" width="400" alt="Demon Slayer"/>
+[![Simple Custom Spotify Widget](https://img.shields.io/badge/Favorite%20Song-39naxI2F1PoGszYuQ0bUFp-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/39naxI2F1PoGszYuQ0bUFp?si=ec1cce06deee4079)
+
+<div align="center">
+
+<img src="https://www.icegif.com/wp-content/uploads/tanjiro-kamado-icegif-2.gif" width="400" alt="Demon Slayer"/>
 
 </div>
 
