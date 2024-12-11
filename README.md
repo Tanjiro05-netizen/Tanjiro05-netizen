@@ -9,7 +9,9 @@
 <div align="center">
   
 ```
-「 Engineering the future 」
+「 Engineering the future through AI and Marxist thought 」
+「 通过人工智能和马克思主义思想构建未来 」
+「 AI와 마르크스주의 사상으로 미래를 설계하다 」
 ```
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Tanjiro05-netizen&color=blueviolet)
@@ -21,7 +23,7 @@
 ```python
 class Engineer:
     def __init__(self):
-        self.name = "Anon/MM"
+        self.name = "Anon"
         self.role = "Engineer & AI Enthusiast"
         self.location = ["Chengdu", "Hangzhou"]
         self.age = 26
@@ -40,7 +42,7 @@ class Engineer:
 - 🔧 Full-Stack Development
 
 <div align="center">
-<img src="https://64.media.tumblr.com/a5f5f3bba7ff79e98a54eaeb754ef516/3a79b9d52ff67eae-5f/s1280x1920/2b4a69598fcd171e1f22ba9976113920113e31e6.gifv" width="400" alt="Jujutsu Kaisen"/>
+<img src="YOUR_JUJUTSU_KAISEN_GIF_URL_HERE" width="400" alt="Jujutsu Kaisen"/>
 </div>
 
 ## 💫 Skills | 技能 | 기술
@@ -59,35 +61,39 @@ class Engineer:
 
 ## 🌟 Interests | 兴趣爱好 | 관심사
 
-- 🎮 Gaming Enthusiast
-- 📺 Anime & K-Drama Obsessed
+- 🎮 Gaming Explorer
+- 📺 Anime & K-Drama Enthusiast
 - 🛠️ DIY Project Builder
-- 💻 Tech Innovator and Revolutionary
+- 💻 Tech Innovator
 
 ## 📺 Currently Watching | 在看 | 시청 중
 
 ### Anime 🍜
 - 🌟 Jujutsu Kaisen Season 2
-- 🌟 Dan Da Dan
-- 🌟 Demon Slayer Season 4
+- 🌟 [Your current anime]
+- 🌟 [Your current anime]
 
 ### K-Dramas 🎭
-- 🌟 Bloodhounds
-- 🌟 My Name
-- 🌟 Because this is my first life
+- 🌟 [Your current kdrama]
+- 🌟 [Your current kdrama]
+- 🌟 [Your current kdrama]
 
-## 🎵 Vibing To | 在听 | 듣는 중
-
-
-<div align="center">
-
-[![Simple Custom Spotify Widget](https://img.shields.io/badge/Currently%20Listening-39naxI2F1PoGszYuQ0bUFp-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/39naxI2F1PoGszYuQ0bUFp?si=ec1cce06deee4079)
+♫ Vibing To | 在听 | 듣는 중
+___
 
 <div align="center">
 
-<img src="https://www.icegif.com/wp-content/uploads/tanjiro-kamado-icegif-2.gif" width="400" alt="Demon Slayer"/>
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31s7xbpqzwc4up37ci5uw3w4n3bi&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
 
+**FAVORITE SONG:** `39NAXI2F1POGSZYU0DBUFP`
+
+<div align="center">
+<img src="YOUR_DEMON_SLAYER_GIF_URL_HERE" width="400" alt="Demon Slayer"/>
 </div>
+
+## 📊 GitHub Stats | GitHub 统计 | GitHub 통계
+
+<div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanjiro05-netizen&show_icons=true&theme=tokyonight)
 
