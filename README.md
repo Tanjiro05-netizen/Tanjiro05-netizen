@@ -71,11 +71,11 @@
 ♫ Vibing To | 在听 | 듣는 중
 ___
 
+
 <div align="center">
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31s7xbpqzwc4up37ci5uw3w4n3bi&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
-
-FAVORITE SONG: 39NAXI2F1POGSZYU0DBUFP
+[![Simple Custom Spotify Widget](https://img.shields.io/badge/Currently%Listening-39naxI2F1PoGszYuQ0bUFp-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/39naxI2F1PoGszYuQ0bUFp?si=ec1cce06deee4079)
+[![Simple Custom Spotify Widget](https://img.shields.io/badge/Currently%20Listening-39naxI2F1PoGszYuQ0bUFp-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/39naxI2F1PoGszYuQ0bUFp?si=ec1cce06deee4079)
 
 <div align="center">
 <img src="https://www.icegif.com/wp-content/uploads/tanjiro-kamado-icegif-2.gif" width="400" alt="Demon Slayer"/>
