@@ -49,10 +49,10 @@
 
 ## 🌟 Interests | 兴趣爱好 | 관심사
 
-- 🎮 Gaming Explorer
-- 📺 Anime & K-Drama Enthusiast
+- 🎮 Gaming Enthusiast
+- 📺 Anime & K-Drama Obsessor
 - 🛠️ DIY Project Builder
-- 💻 Tech Innovator
+- 💻 Tech Innovator and Revolutionary
 
 ## 📺 Currently Watching | 在看 | 시청 중
 
