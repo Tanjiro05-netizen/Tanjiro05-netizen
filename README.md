@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hello%2C+welcome+to+my+page" alt="Typing SVG" />
+
+</div>
+
 # 안녕하세요 👋 | Hello | 你好
 
 <div align="center">
@@ -11,9 +17,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=YOURUSERNAME&color=blueviolet)
 
 </div>
-
-<div>
-  <img align="right" width="400" src="https://media1.tenor.com/m/ujZcKPQN8A8AAAAd/your-name.gif" alt="Your Name Anime"/>
 
 ## 🌌 About Me | 关于我 | 나에 대해
 
@@ -30,7 +33,6 @@ class Engineer:
         self.interests = ["Anime", "Gaming", "K-Dramas", 
                          "Building Things", "Engineering"]
 ```
-</div>
 
 ## 🎮 Current Focus | 当前重点 | 현재 초점
 
@@ -40,7 +42,7 @@ class Engineer:
 - 🔧 Full-Stack Development
 
 <div align="center">
-<img src="https://64.media.tumblr.com/a5f5f3bba7ff79e98a54eaeb754ef516/3a79b9d52ff67eae-5f/s1280x1920/2b4a69598fcd171e1f22ba9976113920113e31e6.gifv" width="400" alt="Jujutsu Kaisen"/>
+<img src="YOUR_JUJUTSU_KAISEN_GIF_URL_HERE" width="400" alt="Jujutsu Kaisen"/>
 </div>
 
 ## 💫 Skills | 技能 | 기술
@@ -65,7 +67,7 @@ class Engineer:
 - 💻 Tech Innovator
 
 <div align="center">
-<img src="https://www.icegif.com/wp-content/uploads/tanjiro-kamado-icegif-2.gif" width="400" alt="Demon Slayer"/>
+<img src="YOUR_DEMON_SLAYER_GIF_URL_HERE" width="400" alt="Demon Slayer"/>
 </div>
 
 ## 📊 GitHub Stats | GitHub 统计 | GitHub 통계
