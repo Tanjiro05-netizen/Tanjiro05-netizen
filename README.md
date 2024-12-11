@@ -75,7 +75,7 @@ ___
 
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=31s7xbpqzwc4up37ci5uw3w4n3bi&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
 
-**FAVORITE SONG:** `39NAXI2F1POGSZYU0DBUFP`
+FAVORITE SONG: 39NAXI2F1POGSZYU0DBUFP
 
 <div align="center">
 <img src="https://www.icegif.com/wp-content/uploads/tanjiro-kamado-icegif-2.gif" width="400" alt="Demon Slayer"/>
