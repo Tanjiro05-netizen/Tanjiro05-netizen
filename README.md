@@ -63,7 +63,7 @@ class Engineer:
 - 💻 Tech Innovator
 
 <div align="center">
-<img src="YOUR_DEMON_SLAYER_GIF_URL_HERE" width="400" alt="Demon Slayer"/>
+<img src="https://www.icegif.com/wp-content/uploads/tanjiro-kamado-icegif-2.gif" width="400" alt="Demon Slayer"/>
 </div>
 
 ## 📊 GitHub Stats | GitHub 统计 | GitHub 통계
