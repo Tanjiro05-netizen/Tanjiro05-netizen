@@ -9,9 +9,7 @@
 <div align="center">
   
 ```
-「 Engineering the future through AI and Marxist thought 」
-「 通过人工智能和马克思主义思想构建未来 」
-「 AI와 마르크스주의 사상으로 미래를 설계하다 」
+「 Engineering the future through AI 」
 ```
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Tanjiro05-netizen&color=blueviolet)
