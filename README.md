@@ -12,10 +12,8 @@
 
 </div>
 
-<div align="center">
-<table>
-<tr>
-<td width="60%">
+<div>
+  <img align="right" width="400" src="https://media1.tenor.com/m/ujZcKPQN8A8AAAAd/your-name.gif" alt="Your Name Anime"/>
 
 ## 🌌 About Me | 关于我 | 나에 대해
 
@@ -32,13 +30,6 @@ class Engineer:
         self.interests = ["Anime", "Gaming", "K-Dramas", 
                          "Building Things", "Engineering"]
 ```
-
-</td>
-<td width="40%">
-<img src="https://media1.tenor.com/m/ujZcKPQN8A8AAAAd/your-name.gif" width="100%" alt="Your Name Anime"/>
-</td>
-</tr>
-</table>
 </div>
 
 ## 🎮 Current Focus | 当前重点 | 현재 초점
