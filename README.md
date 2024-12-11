@@ -78,15 +78,10 @@ class Engineer:
 
 ## 🎵 Vibing To | 在听 | 듣는 중
 
-<div align="center">
-
-(https://spotify-github-profile.vercel.app/api/view?uid=31s7xbpqzwc4up37ci5uw3w4n3bi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/track/39naxI2F1PoGszYuQ0bUFp?si=ec1cce06deee4079)
-
-</div>
 
 <div align="center">
 
-[![Simple Custom Spotify Widget](https://img.shields.io/badge/Favorite%20Song-39naxI2F1PoGszYuQ0bUFp-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/39naxI2F1PoGszYuQ0bUFp?si=ec1cce06deee4079)
+[![Simple Custom Spotify Widget](https://img.shields.io/badge/Currently%Listening-39naxI2F1PoGszYuQ0bUFp-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/39naxI2F1PoGszYuQ0bUFp?si=ec1cce06deee4079)
 
 <div align="center">
 
