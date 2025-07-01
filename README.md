@@ -9,7 +9,7 @@
 <div align="center">
   
 ```
-「 Engineering the future through AI 」
+「 AI/Physics/Mathematics/Philosophy 」
 ```
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Tanjiro05-netizen&color=blueviolet)
